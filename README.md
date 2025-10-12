@@ -2,9 +2,9 @@
 
 ## 커리큘럼
 
-- 섹션 1. 인트로 4개 ∙ (7분)
+[- 섹션 1. 인트로 4개 ∙ (7분)](./01-intro/README.md)
 
-- 섹션 2. 배열과 리스트 6개 ∙ (57분)
+- 섹션 2. [배열](./02-arrays-and-lists/arrays/README.md)과 [리스트](./02-arrays-and-lists/lists/README.md) 6개 ∙ (57분)
 
 - 섹션 3. 스택과 큐 4개 ∙ (39분)
 
